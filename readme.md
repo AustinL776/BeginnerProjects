@@ -1,0 +1,1 @@
+This is a series of beginner projects that I'm doing with Python / following along on the FreeCodeCamp.com YouTube page 
